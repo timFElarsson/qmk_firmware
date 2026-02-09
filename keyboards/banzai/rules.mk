@@ -1,0 +1,8 @@
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = vendor
+MOUSEKEY_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+NKRO_ENABLE = yes
+RGBLIGHT_ENABLE = yes # Enables QMK's RGB code
+WS2812_DRIVER = vendor # Use the RP2040's PIO interface
+BOOTMAGIC_ENABLE = yes
